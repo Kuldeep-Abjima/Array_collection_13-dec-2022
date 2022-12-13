@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DisplayRoutes", "array\DisplayRoutes.csproj", "{5491202D-B9F4-4BF5-B2CD-E0E2D0D07BD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Display-Routes-2.0", "Display-Routes-2.0\Display-Routes-2.0.csproj", "{0D7EE70A-BFF7-428E-A904-62B773AB87D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5491202D-B9F4-4BF5-B2CD-E0E2D0D07BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5491202D-B9F4-4BF5-B2CD-E0E2D0D07BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5491202D-B9F4-4BF5-B2CD-E0E2D0D07BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5491202D-B9F4-4BF5-B2CD-E0E2D0D07BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D7EE70A-BFF7-428E-A904-62B773AB87D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D7EE70A-BFF7-428E-A904-62B773AB87D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D7EE70A-BFF7-428E-A904-62B773AB87D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D7EE70A-BFF7-428E-A904-62B773AB87D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {781A06E2-FAB6-48B4-8685-16B02958CB9D}
+	EndGlobalSection
+EndGlobal
